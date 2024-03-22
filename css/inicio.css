@@ -1,0 +1,42 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+header {
+    background-color: black;
+    color: yellow;
+    padding: 0.1em;
+    
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 6em;
+    text-align: center;
+}
+
+nav ul li a {
+    color: red;
+    text-decoration: none;
+}
+h1{
+    font-size: 5em;
+    font-family: cursive;
+    text-align: center;
+    border-color: white;
+}
+a{
+    font-size: 2em;
+    font-family:cursive;
+    text-align: center;
+    border-color: white;
+}
