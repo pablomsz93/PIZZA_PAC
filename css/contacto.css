@@ -1,0 +1,44 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    
+  }
+  
+  header {
+    background-color: black;
+    color: yellow;
+    padding: 2em;
+    text-align: center;
+    font-size: xx-large;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 6em;
+    text-align: center;
+    font-size: large;
+  }
+  
+  nav ul li a {
+    color: red;
+    text-decoration: none;
+  }
+  .container {
+    background-color: yellow;
+  }
+  footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;}
+  
+    footer p{
+      color: red;
+  }
