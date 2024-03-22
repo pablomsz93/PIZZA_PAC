@@ -1,0 +1,115 @@
+
+.card-text{
+    color: white;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    background-color: black;
+}
+.card-body{
+    background-color: black;
+}
+.card-title{
+    color: rgb(156, 4, 4);
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.card{
+    width: 20em;
+    background-color:white;
+    border-width: 10px; 
+    border-style: solid;
+    border-radius: 20px;
+    text-align: center;
+    height: 30em;
+    align-items: center;
+    justify-content: center;
+    }
+.precio{
+    color: green;
+}
+.card img{
+    width: 300px;
+    height: 200px;
+    background-color: black;
+    
+}
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: black;
+    background-image: url('/imagenes/fondoentrantes.avif');
+    
+}
+
+header {
+    background-color: black;
+    color: yellow;
+    padding: 0.1em;
+    
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 6em;
+    text-align: center;
+}
+
+nav ul li a {
+    color: red;
+    text-decoration: none;
+}
+footer {
+    background-color: yellow;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    
+}
+h2{
+    background-color: black;
+    border-color: yellow;
+    border-style: outset;
+    border-width: 0.3em;
+    font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellow;
+    
+}
+h1{
+    font-size: 5em;
+    font-family: cursive;
+    text-align: center;
+    border-color: white;
+    color:yellow;
+    
+    
+    
+}
+a{
+    font-size: 2em;
+    font-family:cursive;
+    text-align: center;
+    border-color: white;
+    
+    
+}
+h3{
+    color: red;
+    font-size: x-large;
+}
+p{
+    color: yellow;
+    font-size: x-large;
+}
+footer p{
+    color: red;
+}
