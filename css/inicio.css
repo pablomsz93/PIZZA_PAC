@@ -40,3 +40,47 @@ a{
     text-align: center;
     border-color: white;
 }
+.welcome {
+    background-image: url('../imagenes/fondopizza.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+.about {
+    background-color: black;
+    padding: 50px;
+}
+
+footer {
+    background-color: yellow;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    
+}
+h2{
+    background-color: black;
+    border-color: yellow;
+    border-style: outset;
+    border-width: 0.3em;
+    font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellow;
+    
+}
+h3{
+    color: red;
+    font-size: x-large;
+}
+p{
+    color: yellow;
+    font-size: x-large;
+}
+footer p{
+    color: red;
+}
